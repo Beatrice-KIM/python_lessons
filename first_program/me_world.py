@@ -1,0 +1,7 @@
+print("my name is Tricey")
+print("I study at Ardhi university")
+print("My former advance school was Namwai high school")
+print("MY privious o level education finished since 2022 at Don bosco sec")
+print("I decided to learning computer sience ")
+print("Since i wish to be a goog software developer")
+print("That a short story about Tricey")
